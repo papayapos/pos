@@ -1,13 +1,18 @@
 # Changelog
 
-## Verzia 3.10.1
+
+## Verzia 3.10.2
 - Prepojenie váh pomocou protokolu CAS
+
+## Verzia 3.10.1
 - Opravy komunikácie na Fiskal Pro protokol v prípade zaokrúhlenia
+- pridane PRSK05
 
 ## Verzia 3.10.0
 - Nová funkcia pre eKasa na 5c zaokrúhlovanie
 - Rôzne opravy stability
 - Rôzne opravy a úpravy komunikácie na eKasa Pay (storno, zaokrúhlenie)
+- Bez PRSK05
 
 ## Verzia 3.9.0
 - prepojenie na PRSK05 protokol (TB/Verifone)
