@@ -12,6 +12,9 @@
 ## Verzia 3.9.0
 - prepojenie na PRSK05 protokol (TB/Verifone)
 
+## Verzia 3.8.8.2
+- oprava pridavania bonovacich tlaciarni, ktore nie su USB
+
 ## Verzia 3.8.8.1
 - opravuje nespravne volanie predaja na kartu aj ked bol volany navrat na kartu. Dialo sa pri nastaveni eKasaPay protokol z Papaya na Nexgo alebo Pax
 - Verzia je kompatibilna z 3.8.8 server verziou alebo 3.8.8-b1
