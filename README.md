@@ -12,7 +12,7 @@
 ## Verzia 3.9.0
 - prepojenie na PRSK05 protokol (TB/Verifone)
 
-## Verzia 3.8.8.2
+## Verzia 3.8.8.2 (NEW)
 - oprava pridavania bonovacich tlaciarni, ktore nie su USB
 
 ## Verzia 3.8.8.1
