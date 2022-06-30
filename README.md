@@ -1,5 +1,8 @@
 # Changelog
 
+## Verzia 3.10.5 (NEW)
+- oprava update PIN
+
 ## Verzia 3.10.4 (NEW)
 - implemetnovany fotoaparat pre Nexgo na citanie qr kodov a ciarovych kodov
 - zaokruhlovanie na Efox
