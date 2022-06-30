@@ -1,5 +1,10 @@
 # Changelog
 
+## Verzia 3.10.4
+- implemetnovany fotoaparat pre Nexgo na citanie qr kodov a ciarovych kodov
+- zaokruhlovanie na Efox
+- pridana podpora dalsieho formatu ciaroveho kodu
+
 ## Verzia 3.10.3 (NEW)
 - Fix inicializacia dat - pri novej instalacii chyba v init databazy
 
