@@ -1,5 +1,14 @@
 # Changelog
 
+## Verzia 3.11.0.2
+- fix dibal vahy
+
+## Verzia 3.11.0.3
+- pro + cloud version update
+
+## Verzia 3.11.0
+- pro+ mobilny casnici, vylepsenie stability
+
 ## Verzia 3.10.5.1 (NEW)
 - oprava efox uzavierka na novom firmware
 
