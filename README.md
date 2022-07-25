@@ -1,6 +1,6 @@
 # Changelog
 
-## Verzia 3.11.0.2
+## Verzia 3.11.0.2 (NEW)
 - fix dibal vahy
 
 ## Verzia 3.11.0.3
@@ -9,7 +9,7 @@
 ## Verzia 3.11.0
 - pro+ mobilny casnici, vylepsenie stability
 
-## Verzia 3.10.5.1 (NEW)
+## Verzia 3.10.5.1
 - oprava efox uzavierka na novom firmware
 
 ## Verzia 3.10.5
