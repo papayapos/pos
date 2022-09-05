@@ -1,6 +1,15 @@
 # Changelog
 
-## Verzia 3.11.0.2 (NEW)
+## Verzia 3.11.3 (NEW)
+- fix obcasne zasekavanie odosielania dat
+
+## Verzia 3.11.2
+- fix - stabilita pro+
+
+## Verzia 3.11.1
+- zrychlene pocitanie uzavierok smien
+
+## Verzia 3.11.0.2
 - fix dibal vahy
 
 ## Verzia 3.11.0.3
