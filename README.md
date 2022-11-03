@@ -1,6 +1,15 @@
 # Changelog
 
-## Verzia 3.11.3 (NEW)
+## Verzia 3.12.1 (NEW)
+- fix povolenie inventury ak su dosyncovane data
+
+## Verzia 3.12.0
+- externa fronta EQ, zjednoduseny setup
+
+## Verzia 3.11.8-EQ
+- test externa fronta
+
+## Verzia 3.11.3
 - fix obcasne zasekavanie odosielania dat
 
 ## Verzia 3.11.2
